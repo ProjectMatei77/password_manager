@@ -14,4 +14,4 @@ This is a simple password generator and manager application built with Python's 
 - Python 3.x
 - `tkinter` library (usually comes pre-installed with Python)
 - `pyperclip` library for clipboard functionality
-  - You can install it using `pip install pyperclip`
+- You can install it using `pip install pyperclip`
